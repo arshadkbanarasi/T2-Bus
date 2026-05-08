@@ -1,0 +1,10 @@
+backend/node_modules/
+backend/dist/
+backend/src/**/*.js
+backend/src/**/*.js.map
+backend/src/**/*.d.ts
+backend/src/**/*.d.ts.map
+backend/server.js
+backend/server.js.map
+backend/server.d.ts
+backend/server.d.ts.map
